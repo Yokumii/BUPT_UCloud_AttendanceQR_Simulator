@@ -3,4 +3,5 @@ qrcode>=7.3.1
 Pillow>=8.0.0
 numpy>=1.19.0
 pytz>=2021.1
-python-dateutil>=2.8.2 
+python-dateutil>=2.8.2
+pyzbar>=0.1.8 
